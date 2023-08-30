@@ -1,8 +1,8 @@
 # GenAIGlossary
 A glossary of terms in Generative AI and their details.
 
-| Term | Description            | Source               |
-| ---- | :--------------------- | :------------------- |
+| Term | Description            | Source     |
+| ---- | :--------------------- | :--------- |
 |AGI        |	Artificial general intelligence, A concept that suggests a more advanced version of AI than we know today, one that can perform tasks much better than humans while also teaching and advancing its own capabilities.	
 |BART       |	Bidirectional and Auto-Regressive Transformers	|       https://arxiv.org/pdf/1910.13461.pdf
 |BERT       |	Bidirectional Encoder Representations from Transformers	|       https://towardsdatascience.com/keeping-up-with-the-berts-5b7beb92766
@@ -24,3 +24,6 @@ A glossary of terms in Generative AI and their details.
 |XLM        |	Cross-lingual Language Models	|       https://arxiv.org/pdf/1901.07291.pdf
 |XLU        |	Cross-lingual Understanding	
 |XNLI       |	Cross-lingual Natural Language Inference	|       https://github.com/facebookresearch/XNLI
+
+---
+Note: _PRs are accepted. Feel free to add more terms and their details._
