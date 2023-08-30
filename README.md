@@ -1,6 +1,10 @@
 # GenAIGlossary
 A glossary of terms in Generative AI and their details.
 
+## Back story
+It's becoming difficult to catch up with the AI space. This doc will can be used as a refresher to keep track of the terms and their details in the Generative AI space.
+
+## Glossary
 | Term | Description            | Source     |
 | ---- | :--------------------- | :--------- |
 |AGI        |	Artificial general intelligence, A concept that suggests a more advanced version of AI than we know today, one that can perform tasks much better than humans while also teaching and advancing its own capabilities.	
