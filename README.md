@@ -22,6 +22,7 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |FLOPS      |	Floating Point Operations Per Second	                                            |       https://en.wikipedia.org/wiki/FLOPS
 |HNSW       |	Hierarchical Navigable Small Worlds	                                                |       https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf
 |LLaMA      |	Large Language Model Meta AI	                                                    |       https://ai.meta.com/blog/large-language-model-llama-meta-ai/
+|LLaSM      |   Large Language and Speech Model                                                     |       https://arxiv.org/pdf/2308.15930.pdf
 |LLM        |	Large Language Model: An AI model trained on mass amounts of text data to understand language and generate novel content in human-like language.	
 |ML         |	Machine Learning, A component in AI that allows computers to learn and make better predictive outcomes without explicit programming. Can be coupled with training sets to generate new content.	
 |MLM        |	Masked Language Model	
