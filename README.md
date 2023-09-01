@@ -9,6 +9,7 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 | ---- | :--------------------- | :--------- |
 |AGI        |	Artificial general intelligence, A concept that suggests a more advanced version of AI than we know today, one that can perform tasks much better than humans while also teaching and advancing its own capabilities.	
 |BART       |	Bidirectional and Auto-Regressive Transformers	                                    |       https://arxiv.org/pdf/1910.13461.pdf
+|BELEBELE   |   A Bambara word meaning "big, large, fat, great". This is a dataset containing 900 unique multiple-choice reading comprehension questions, each associated with one of 488 distinct passages  |       https://arxiv.org/pdf/2308.16884.pdf
 |BERT       |	Bidirectional Encoder Representations from Transformers	                            |       https://towardsdatascience.com/keeping-up-with-the-berts-5b7beb92766
 |BLOOM      |	BigScience Large Open-science Open-access Multilingual Language Model	            |       https://bigscience.huggingface.co/
 |BPE        |	Byte Pair Encoding	                                                                |       https://en.wikipedia.org/wiki/Byte_pair_encoding
