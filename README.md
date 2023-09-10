@@ -13,6 +13,7 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |BERT       |	Bidirectional Encoder Representations from Transformers	                            |       https://towardsdatascience.com/keeping-up-with-the-berts-5b7beb92766
 |BLOOM      |	BigScience Large Open-science Open-access Multilingual Language Model	            |       https://bigscience.huggingface.co/
 |BPE        |	Byte Pair Encoding	                                                                |       https://en.wikipedia.org/wiki/Byte_pair_encoding
+|C4         |   The Colossal Clean Crawled Corpus, a dataset of 800GB of English text collected from the web.  |  https://www.tensorflow.org/datasets/catalog/c4
 |CLIP       |	Contrastive Language-Image Pre-training	                                            |       https://openai.com/blog/clip/
 |DALL-E     |	It is a portmanteau of the names of animated robot Pixar character WALL-E and the Spanish surrealist artist Salvador Dalí.	    |       https://openai.com/research/dall-e
 |DPR        |	Dense Passage Retrieval	                                                            |       https://arxiv.org/pdf/2004.04906.pdf
@@ -22,7 +23,8 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |FLAN       |	Fine tuning Language models	                                                        |       https://arxiv.org/pdf/2210.11416.pdf
 |FLOPS      |	Floating Point Operations Per Second	                                            |       https://en.wikipedia.org/wiki/FLOPS
 |FLoRes     |	*F*acebook *Lo*w *Res* Machine Translation Benchmark is a low-resource MT dataset.  |       https://github.com/facebookresearch/flores
-|GSM8K      |	Grade School Math 8K, GSM8K is a dataset of 8.5K high quality linguistically diverse grade school math word problems created by human problem writers.	                                                        |       https://arxiv.org/pdf/2109.01152.pdf
+|GGML       |   Georgi Gerganov Machine Learning, a C library focused on machine learning           |       https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML
+|GSM8K      |	Grade School Math 8K, GSM8K is a dataset of 8.5K high quality linguistically diverse grade school math word problems created by human problem writers. |  https://arxiv.org/pdf/2109.01152.pdf
 |HNSW       |	Hierarchical Navigable Small Worlds	                                                |       https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf
 |LaMDA      |   Language Model for Dialogue Applications	                                        |       https://arxiv.org/pdf/2201.08239.pdf
 |LLaMA      |	Large Language Model Meta AI	                                                    |       https://ai.meta.com/blog/large-language-model-llama-meta-ai/
@@ -50,6 +52,7 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |XLU        |	Cross-lingual Understanding	
 |XNLI       |	Cross-lingual Natural Language Inference	                                        |       https://github.com/facebookresearch/XNLI
 |XLNet      |	Generalized Autoregressive Pretraining for Language Understanding	                |       https://arxiv.org/pdf/1906.08237.pdf
+|ZeRO       |   *Ze*ro *R*edundancy *O*ptimizer	                                                    |       https://arxiv.org/pdf/1910.02054.pdf
 
 ---
 Note: _PRs are accepted. Feel free to add more terms and their details._
