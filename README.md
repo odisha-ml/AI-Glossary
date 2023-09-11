@@ -17,6 +17,7 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |CLIP       |	Contrastive Language-Image Pre-training	                                            |       https://openai.com/blog/clip/
 |DALL-E     |	It is a portmanteau of the names of animated robot Pixar character WALL-E and the Spanish surrealist artist Salvador Dalí.	    |       https://openai.com/research/dall-e
 |DPR        |	Dense Passage Retrieval	                                                            |       https://arxiv.org/pdf/2004.04906.pdf
+|ELMo       |   Embeddings from Language Models                                                     |       https://arxiv.org/pdf/1802.05365v2.pdf
 |ERNIE      |	Enhanced Representation through kNowledge IntEgration	                            |       https://arxiv.org/abs/1904.09223
 |ELECTRA    |	Efficiently Learning an Encoder that Classifies Token Replacements Accurately	    |       https://arxiv.org/pdf/2003.10555.pdf
 |FAIR       |	Facebook AI Research	
