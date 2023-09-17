@@ -12,6 +12,7 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |[BELEBELE](https://arxiv.org/pdf/2308.16884.pdf)   |   A Bambara word meaning "big, large, fat, great". This is a dataset containing 900 unique multiple-choice reading comprehension questions, each associated with one of 488 distinct passages  |       
 |[BERT](https://towardsdatascience.com/keeping-up-with-the-berts-5b7beb92766)       |	Bidirectional Encoder Representations from Transformers	                            |       
 |[BLEU](https://en.wikipedia.org/wiki/BLEU)       |	Bilingual Evaluation Understudy, a metric for evaluating a generated sentence to a reference sentence. |       
+|[BIG-Bench](https://openreview.net/forum?id=uyTL5Bvosj)       |   *B*eyond the *I*mitation *G*ame *Bench*mark, a benchmark for measuring the performance of language models across a diverse set of tasks.  |
 |[BLOOM](https://bigscience.huggingface.co/)      |	BigScience Large Open-science Open-access Multilingual Language Model	            |       
 |[BPE](https://en.wikipedia.org/wiki/Byte_pair_encoding)        |	Byte Pair Encoding	                                                                |       
 |[C4](https://www.tensorflow.org/datasets/catalog/c4)         |   The Colossal Clean Crawled Corpus, a dataset of 800GB of English text collected from the web.  |  
@@ -25,7 +26,8 @@ It's becoming difficult to catch up with the AI space. This doc will can be used
 |[FLAN](https://arxiv.org/pdf/2210.11416.pdf)       |	Fine tuning Language models	                                                        |       
 |[FLOPS](https://en.wikipedia.org/wiki/FLOPS)      |	Floating Point Operations Per Second	                                            |       
 |[FLoRes](https://github.com/facebookresearch/flores)     |	*F*acebook *Lo*w *Res* Machine Translation Benchmark is a low-resource MT dataset.  |       
-|[GGML](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML)       |   Georgi Gerganov Machine Learning, a C library focused on machine learning           |       
+|[GGML](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML)       |   Georgi Gerganov Machine Learning, a C library focused on machine learning           |
+|[GLaM](https://arxiv.org/abs/2112.06905v2)      |   Generalist Language Model, a family of language models which uses a sparsely activated mixture-of-experts architecture to scale the model capacity while also incurring substantially less training cost compared to dense variants. |
 |[GSM8K](https://arxiv.org/pdf/2109.01152.pdf)      |	Grade School Math 8K, GSM8K is a dataset of 8.5K high quality linguistically diverse grade school math word problems created by human problem writers. |  
 |[HNSW](https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf)       |	Hierarchical Navigable Small Worlds	                                                |       
 |[LaMDA](https://arxiv.org/pdf/2201.08239.pdf)      |   Language Model for Dialogue Applications	                                        |       
