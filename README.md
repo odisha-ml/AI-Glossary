@@ -1,8 +1,8 @@
-# GenAIGlossary
-A glossary of terms in Generative AI and their details.
+# AIGlossary
+A glossary of terms in AI and their details.
 
 ## Back story
-It's becoming difficult to catch up with the AI space. This doc will can be used as a refresher to keep track of the terms and their details in the Generative AI space.
+It's becoming difficult to catch up with the AI space. This doc will can be used as a refresher to keep track of the terms and their details in the AI space.
 
 ## Glossary
 | Term                                              | Description                                                        |
