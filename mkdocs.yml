@@ -1,0 +1,120 @@
+# Website
+site_name: AI Glossary
+site_url: https://glossary.odishaai.org/
+site_author: Soumendra Kumar Sahoo
+site_description: >-
+  A glossary of terms in AI and their details.
+
+# Repository
+repo_name: AI Glossary
+repo_url: https://github.com/soumendrak/AIGlossary
+
+# Copyright
+copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://glossary.odishaai.org">AI Glossary</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.odishaai.org">Odias in AI</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"></a></p>
+
+# Configuration
+theme:
+  name: material
+  collapse_by_default: true
+  highlights: true
+  # logo: images/logo.png
+
+  # Don't includes MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - instant
+    # - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    - tabs
+    - toc.integrate
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: blue
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+  - scheme: slate
+    primary: green
+    accent: blue
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+  font:
+    text: Space Grotesk
+    code: Roboto Mono
+  favicon: images/logo.png
+
+plugins:
+  - search:
+      prebuild_index: true
+  - git-revision-date-localized:
+      type: timeago
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  # - pymdownx.betterem:
+  #     smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.progressbar
+
+# Customization
+extra:
+  homepage: https://glossary.odishaai.org/
+  analytics:
+    provider: google
+    property: 
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/soumendrak/AIGlossary
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/5014656/soumendra?tab=profile
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/odias_in_ml
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/75029211
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
