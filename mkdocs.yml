@@ -7,7 +7,7 @@ site_description: >-
 
 # Repository
 repo_name: AI Glossary
-repo_url: https://github.com/soumendrak/AIGlossary
+repo_url: https://github.com/odisha-ml/AI-Glossary
 
 # Copyright
 copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://glossary.odishaai.org">AI Glossary</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.odishaai.org">Odias in AI</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"></a></p>
@@ -34,18 +34,18 @@ theme:
     - tabs
     - toc.integrate
   palette:
-  - scheme: default
-    primary: indigo
-    accent: blue
-    toggle:
-      icon: material/weather-sunny
-      name: Switch to dark mode
-  - scheme: slate
-    primary: green
-    accent: blue
-    toggle:
-      icon: material/weather-night
-      name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   font:
     text: Space Grotesk
     code: Roboto Mono
@@ -103,7 +103,7 @@ extra:
   homepage: https://glossary.odishaai.org/
   analytics:
     provider: google
-    property: 
+    property:
 
   social:
     - icon: fontawesome/brands/github
