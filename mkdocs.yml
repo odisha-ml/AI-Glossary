@@ -52,8 +52,8 @@ theme:
   favicon: images/logo.png
 
 plugins:
-  - search:
-      prebuild_index: true
+  # - search:
+  #     prebuild_index: true
   - git-revision-date-localized:
       type: timeago
 
